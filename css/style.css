@@ -104,17 +104,14 @@ footer {
 =======
     background-color: #FF66CC;
     font-family: hevitica, serif;
-    font-style: italic;
 >>>>>>> FETCH_HEAD
     clear: both;
     color: #66CCFF;
 }
 
-footer ul {
-    list-style-type: none;
-}
 
-li footer { color : 00CCCC; }
+
+
 .wrapper {
     margin: 0 auto;
     max-width: 960px;
